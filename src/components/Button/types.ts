@@ -1,8 +1,6 @@
 export interface IButton{
-    title: string;
-    variant?: string;
+    label: string;
     onClick?: () => void;
-    type?: string;
 }
 
 export interface IButtonStyled {

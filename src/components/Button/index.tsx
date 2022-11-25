@@ -1,9 +1,13 @@
 import React from 'react'
+import { ButtonContainer } from './styles'
+import { IButton } from './types'
 
-function index() {
+function Button({label, onClick}:IButton) {
   return (
-    <div>index</div>
+    <ButtonContainer onClick={onClick}>
+      {label}
+    </ButtonContainer>
   )
 }
 
-export default index
+export default Button
