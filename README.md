@@ -1,5 +1,5 @@
 # calculator_react_typeScript
-Desenvolvimento de uma calculadora com React Ts, para exercitar os conceitos aprendidos da linguagem. 
+
 
 <h1 align="center"> **:bar_chart: CALCULADORA** </h1>
 
@@ -10,6 +10,7 @@ Desenvolvimento de uma calculadora com React Ts, para exercitar os conceitos apr
 ## 🚀 Sobre o projeto
 
 <p>Projeto desenvolvido para prática de React + Typescript.</p>
+<p>Desenvolvimento de uma calculadora com React Ts, para exercitar os conceitos aprendidos da linguagem.</p>
 <p>Durante o curso foram dados alguns desafios, os quais desenvolvi e apliquei com sucesso.</p>
 
 
