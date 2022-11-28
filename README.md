@@ -1,6 +1,3 @@
-# calculator_react_typeScript
-
-
 <h1 align="center"> **:bar_chart: CALCULADORA** </h1>
 
 <h2 align="center" style="color:black"> LAYOUT DO APP</h2>
