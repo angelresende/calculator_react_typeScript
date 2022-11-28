@@ -16,3 +16,9 @@
 - [REACT](https://reactjs.org/);
 - [VITE](https://vitejs.dev/);
 - [TypeScript](https://www.typescriptlang.org/);
+
+
+## Para iniciar o projeto:
+
+- npm install
+- npm run dev
