@@ -1,10 +1,11 @@
 // import React from 'react'
 import { InputContainer } from './styles'
+import { IInput } from './types'
 
-function index() {
+function index({value}: IInput) {
   return (
     <InputContainer>
-      <input/>
+      <input disabled value={value}/>
     </InputContainer>
   )
 }
